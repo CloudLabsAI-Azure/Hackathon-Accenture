@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Hackathon - Accenture",
+    "Language": "English",
+    "Files": [
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Hackathon-Accenture/main/README.md",
+        "Order": 1
+      }
+    ]
+  }
+]
