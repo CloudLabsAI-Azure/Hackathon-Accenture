@@ -87,11 +87,12 @@ To get a better understanding of your lab resources and credentials, navigate to
    
 
 ### CloudLabs Support Contacts
-if you need any assistance, or you can contact CloudLabs 24*7 Support for any extra help.
+
+If you need any assistance, or you can contact CloudLabs 24*7 Support for any extra help.
 
 + **Email:** `event-support@spektrasystems.com`
 
 + **Live Chat:** `https://cloudlabs.ai/ms-support`
 
 When you contact support, please provide the following information:
-+  “I am participating in Hackathon - Accenture event, my registered email address is `email@accenture.com`, followed by your query/issue.  
++  "I am participating in Hackathon - Accenture", my registered email address is `email@accenture.com`, followed by your query/issue.  
